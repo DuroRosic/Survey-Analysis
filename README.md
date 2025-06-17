@@ -34,6 +34,8 @@ You are free to use, adapt, and share the materials for **non-commercial purpose
 - Normalization of Likert-scale responses into sentiment categories
 - Pandas, seaborn, matplotlib, nltk/spacy-based text preprocessing
 
+![anon-before-after-table](assets/anon-before-after-table.jpg)
+
 ## 🎯 Project Highlights
 
 - Realistic survey data structure with anonymized content
