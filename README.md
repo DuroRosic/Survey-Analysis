@@ -40,6 +40,14 @@ You are free to use, adapt, and share the materials for **non-commercial purpose
 - Custom preprocessing and privacy-preserving pipeline
 - Demonstrates transferable skills in survey analytics, sentiment modeling, and data storytelling
 
+## 📂 Repository Structure
+
+.
+├── notebooks/ # Jupyter notebooks
+├── data/ # Sample anonymized data
+├── assets/ # Sample visuals
+└── README.md
+
 ## 📬 Contact
 
 Want to chat about privacy-aware analytics or how this kind of workflow could be applied in your team?  
