@@ -2,6 +2,9 @@
 
 This project demonstrates an exploratory data analysis (EDA) workflow on a large, anonymized customer satisfaction survey. It showcases techniques for working with sensitive data while preserving analytical depth and visual storytelling.
 
+![DivergingStackedBar](assets/SampleVisual_SentimentResponseDivergingStackedBar.jpg)
+![Boxplot](assets/SampleVisual_ScoreBoxplot.jpg)
+![Clustermap](assets/SampleVisual_ScoreClustermap.jpg)
 
 ## 📄 License
 
@@ -41,4 +44,4 @@ You are free to use, adapt, and share the materials for **non-commercial purpose
 
 Want to chat about privacy-aware analytics or how this kind of workflow could be applied in your team?  
 📧 rosic.duro@gmail.com
-🌐 [wip]
+🌐 https://www.linkedin.com/in/duro-rosic-data-analyst/
