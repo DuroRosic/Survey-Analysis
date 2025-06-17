@@ -42,11 +42,13 @@ You are free to use, adapt, and share the materials for **non-commercial purpose
 
 ## 📂 Repository Structure
 
+```plaintext
 .
 ├── notebooks/ # Jupyter notebooks
 ├── data/ # Sample anonymized data
 ├── assets/ # Sample visuals
 └── README.md
+```
 
 ## 📬 Contact
 
